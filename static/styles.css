@@ -1,0 +1,55 @@
+input[type=number] {
+   border: none;
+   border-bottom: 4px solid #808080;
+}
+
+.white{
+
+  border: 2px solid white;
+  border-radius: .5px;
+  margin-bottom: 25px;
+}
+
+hr.white2{
+  border: 4px solid white;
+  border-radius: .5px;
+  margin-bottom: 0px;
+}
+
+.vl {
+  border-left: 1px solid grey;
+  height: 100%;
+  padding-right: 10px;
+}
+
+button {
+
+background: #a6cded;
+
+color: #fff;
+
+border: 1px solid #eee;
+
+border-radius: 20px;
+
+box-shadow: 5px 5px 5px #eee;
+
+text-shadow:none;
+
+}
+
+button:hover {
+
+background: #016ABC;
+
+color: #fff;
+
+border: 1px solid #eee;
+
+border-radius: 20px;
+
+box-shadow: 5px 5px 5px #eee;
+
+text-shadow:none;
+
+}
